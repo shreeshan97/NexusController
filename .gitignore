@@ -1,3 +1,7 @@
+# Unwanted folders
+build/
+test/
+
 # Prerequisites
 *.d
 
